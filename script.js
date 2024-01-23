@@ -35,5 +35,5 @@ console.log("STAR-LORD"[0]); // S
 
 var m = 25;
 var c = 4;
-var u = m * c;
+var u = m + c;
 console.log(u);

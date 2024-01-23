@@ -7,7 +7,7 @@ console.log(13);
 console.log(5 % 2); // 1
 console.log(5 % 4); // 1
 
-console.log('I\'M MARY POPPINS, Y\'ALL!'); // I'M MARY POPPINS, Y'ALL!
+console.log("I'M MARY POPPINS, Y'ALL!"); // I'M MARY POPPINS, Y'ALL!
 
 console.log("Hawk" + "eye"); // Hawkeye
 

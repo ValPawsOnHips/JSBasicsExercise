@@ -15,6 +15,8 @@ console.log("Dakota".length + "Alarcon".length); // 13
 
 console.log("Avengers: Endgame"[16]); // e
 
+// BONUS
+
 console.log("\\"); // \
 
 console.log(5 ** 4 - 9); // 616
